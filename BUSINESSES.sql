@@ -1,4 +1,3 @@
-
 INSERT INTO `BUSINESSES` (`BUSID`, `NAME`, `LATITUDE`, `LONGITUDE`, `REFERENCE` ) VALUES
 (1, 'The Montpellier Chapter', '51.895932', '-2.083967', '1'),
 (2, 'Hotel du Vin', '51.897318', '-2.085194', '1'),
@@ -62,4 +61,3 @@ INSERT INTO `BUSINESSES` (`BUSID`, `NAME`, `LATITUDE`, `LONGITUDE`, `REFERENCE` 
 (60, 'Racecourse', '51.920560', '-2.061405', '9'),
 (61, 'Beechwood shopping centre', '51.899665', '-2.072686', '10'),
 (62, 'Regent Arcade Shopping Centre', '51.898838', '-2.075933', '10');
-
