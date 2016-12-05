@@ -1,11 +1,9 @@
-
 <?php
 
-
 $servername = "localhost";
-$username = "s1206852";
-$password = "Afghan55";
-$dbname = "s1206852_Businesses";
+$username = "*****";
+$password = "*****";
+$dbname = "*****_Businesses";
 
 function getEventList(){ 
     
@@ -39,8 +37,3 @@ function getEventList(){
 getEventList();
 
 ?>
-
-
-
-
-
